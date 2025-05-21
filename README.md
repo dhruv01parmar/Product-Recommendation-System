@@ -11,9 +11,9 @@ This project uses:
 - `cosine_similarity` to compute similarity
 - Shows top 3 most similar items in the same category
 # Project Structure
-├── app.py # Main Streamlit app
-├── product_details.py # Contains product descriptions
-├── style.py # Custom CSS loader
-├── productdata.csv # Product data file
-├── requirements.txt
-└── README.md
+app.py # Main Streamlit app
+product_details.py # Contains product descriptions
+style.py # Custom CSS loader
+productdata.csv # Product data file
+requirements.txt
+README.md

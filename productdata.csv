@@ -1,0 +1,63 @@
+Id,Product,Description,Category,image
+1,Yoga Mat,High-quality yoga mat for comfortable workouts and stretching,Exercise,https://m.media-amazon.com/images/I/81uKe00EChL._SL1500_.jpg
+2,Bluetooth Speaker,Portable speaker with deep bass and long battery life,Electronics,https://m.media-amazon.com/images/I/81yogS-OfbL._SL1500_.jpg
+3,Guitar,Acoustic guitar with rich sound and smooth finish,Music,https://m.media-amazon.com/images/I/61qQiUbyHwL._SL1000_.jpg
+4,Wireless Earbuds,Noise-canceling wireless earbuds with touch control,Electronics,https://m.media-amazon.com/images/I/71+BBZBBT2L._SL1500_.jpg
+5,Sketchbook,Premium sketchbook with high-quality pages for artists,Art Supplies,https://m.media-amazon.com/images/I/71a4DnwjVHL._SL1500_.jpg
+6,Tennis Racket,Durable and lightweight tennis racket with ergonomic grip,Sports,https://m.media-amazon.com/images/I/614Km2WtNYL._SL1500_.jpg
+7,Headphones,Over-ear headphones with superior sound quality,Electronics,https://m.media-amazon.com/images/I/51O3nglyJQL._SL1200_.jpg
+8,Smartphone,Latest smartphone with a high-resolution camera and large screen,Electronics,https://m.media-amazon.com/images/I/71uqj6BKnRL._SL1500_.jpg
+9,Camera,DSLR camera for professional photography with advanced features,Electronics,https://m.media-amazon.com/images/I/71bHfo0UqXL._SL1500_.jpg
+10,Painting Set,Complete painting set for beginners with brushes and colors,Art Supplies,https://m.media-amazon.com/images/I/812yrJ9FTnL._SL1500_.jpg
+11,Dumbbells,Set of dumbbells for strength training and muscle building,Exercise,https://m.media-amazon.com/images/I/61WIJuElBKL._SL1000_.jpg
+12,Soccer Ball,High-quality soccer ball for outdoor play and practice,Sports,https://m.media-amazon.com/images/I/71KXd74+W4L._SL1500_.jpg
+13,Water Bottle,Insulated water bottle to keep drinks hot or cold,Exercise,https://m.media-amazon.com/images/I/714kXp0rMIL._SL1500_.jpg
+14,Backpack,Durable backpack for school and outdoor activities,Accessories,https://m.media-amazon.com/images/I/71wn0+GfUXL._SX679_.jpg
+15,Smartwatch,"Smartwatch with fitness tracking, heart rate monitor, and GPS",Electronics,https://m.media-amazon.com/images/I/81yDbbIiqBL._SL1500_.jpg
+16,Sunglasses,Stylish sunglasses for sunny days and outdoor activities,Accessories,https://m.media-amazon.com/images/I/51eQF1B34RL._SX679_.jpg
+17,Running Shoes,Comfortable and breathable shoes for running and sports,Exercise,https://m.media-amazon.com/images/I/71X+hP7LXBL._SY625_.jpg
+18,Laptop,"High-performance laptop for work, gaming, and entertainment",Electronics,https://m.media-amazon.com/images/I/61k0gpxQwCL._SL1080_.jpg
+19,Guitar Pick,Pack of durable guitar picks for musicians,Music,https://m.media-amazon.com/images/I/71SQfDDTI4L._SL1024_.jpg
+20,Art Easel,Adjustable art easel for painting and drawing,Art Supplies,https://m.media-amazon.com/images/I/61MwrF6Jr3L._SL1500_.jpg
+21,Football,Durable football for outdoor games and practice,Sports,https://m.media-amazon.com/images/I/71UW7QImTrL._SL1500_.jpg
+22,Air Fryer,Healthy cooking air fryer with rapid air circulation,Home Appliances,https://m.media-amazon.com/images/I/61l4MmL-WJL._SL1359_.jpg
+23,Treadmill,Electric treadmill with adjustable speed and incline,Exercise,https://m.media-amazon.com/images/I/61sgUyIhg7L._SL1280_.jpg
+24,Tablet,Portable tablet with a high-definition screen for media consumption,Electronics,https://m.media-amazon.com/images/I/71zKkpC7crL._SL1500_.jpg
+25,Desk Lamp,Adjustable desk lamp with bright LED light for studying,Home Office,https://m.media-amazon.com/images/I/81FsiUBcq1L._SL1500_.jpg
+26,Cookbook,Collection of healthy and easy-to-make recipes for beginners,Food,https://m.media-amazon.com/images/I/810PkVSgYwL._SL1500_.jpg
+27,Game Console,Latest gaming console with HD graphics and multiplayer support,Electronics,https://m.media-amazon.com/images/I/716fkkHuhWL._SL1500_.jpg
+28,Chalk Set,Colored chalk set for teachers and artists,Art Supplies,https://m.media-amazon.com/images/I/71mAL47sbrL._SL1500_.jpg
+29,Wristband,Adjustable wristband for fitness tracking and sports,Accessories,https://m.media-amazon.com/images/I/81Cidqy7Z0L._SL1500_.jpg
+30,Pillow,Comfortable memory foam pillow for neck support,Sleep Accessories,https://m.media-amazon.com/images/I/71I8yc+-Y7L._SL1500_.jpg
+31,Power Bank,Compact power bank for charging your devices on the go,Electronics,https://m.media-amazon.com/images/I/51XxFMQvGML._SL1200_.jpg
+32,Notebook,Premium notebook for writing and journaling,Stationery,https://m.media-amazon.com/images/I/81mfHqT4ByL._SL1500_.jpg
+33,Paint Brushes,"Set of high-quality brushes for oil, acrylic, and watercolor painting",Art Supplies,https://m.media-amazon.com/images/I/81d0qFgzKUL._SL1500_.jpg
+34,Smart Thermostat,Wi-Fi-enabled smart thermostat for energy efficiency,Home Appliances,https://m.media-amazon.com/images/I/61IqRFgCDSL._SL1500_.jpg
+35,Skateboard,Durable skateboard with a smooth ride for beginners and pros,Sports,https://m.media-amazon.com/images/I/61C2KKprACL._SL1400_.jpg
+36,Luggage,Lightweight and durable luggage set for travel,Accessories,https://m.media-amazon.com/images/I/61qxUNhkHXL._SL1500_.jpg
+37,Tennis Balls,Pack of tennis balls for practice and outdoor play,Sports,https://m.media-amazon.com/images/I/81zjWT8t50L._SL1500_.jpg
+38,Guitar Amp,Compact guitar amplifier with clear sound quality,Music,https://m.media-amazon.com/images/I/61Tid2UY9kL._SL1000_.jpg
+39,Fitness Tracker Watch,Wearable fitness tracker to monitor activity and health,Electronics,https://m.media-amazon.com/images/I/8112ll3wwbL._SL1500_.jpg
+40,Microwave,Compact microwave with multiple power levels for quick meals,Home Appliances,https://m.media-amazon.com/images/I/61hD-fVYjcL._SL1500_.jpg
+41,Multivitamin,Daily vitamins for maintaining a healthy lifestyle,Health,https://m.media-amazon.com/images/I/61YY7YNo7rL._SL1500_.jpg
+42,Office Chair,Ergonomic office chair with lumbar support for long hours,Home Office,https://m.media-amazon.com/images/I/71ClGjocCKL._SL1500_.jpg
+43,Bicycle,Durable bicycle with a smooth ride for commuting or leisure,Sports,https://m.media-amazon.com/images/I/81Nm8hF59qL._SL1500_.jpg
+44,Bluetooth Earbuds,Wireless Bluetooth earbuds with long battery life,Electronics,https://m.media-amazon.com/images/I/71hDPfQHtKL._SL1500_.jpg
+45,Instant Camera,Instant print camera for capturing memories on the spot,Electronics,https://m.media-amazon.com/images/I/61UZavYE9TL._SL1500_.jpg
+46,Power Drill,Electric power drill for home improvement and DIY projects,Tools,https://m.media-amazon.com/images/I/713MLrv1mTL._SL1500_.jpg
+47,Paint Palette,Portable paint palette for artists on the go,Art Supplies,https://m.media-amazon.com/images/I/71jr4XvPSDL._SL1500_.jpg
+48,Kettlebell,Adjustable kettlebell for weight training and muscle building,Exercise,https://m.media-amazon.com/images/I/61wWkCWGYVS._SL1500_.jpg
+49,Photo Frame,Stylish photo frame for displaying your favorite pictures,Accessories,https://m.media-amazon.com/images/I/71+1kUnOpAL._SL1500_.jpg
+50,Yoga Blocks,Supportive yoga blocks for alignment and stretching,Exercise,https://m.media-amazon.com/images/I/61ndiAiuoaL._SL1500_.jpg
+51,Camping Tent,Weather-resistant camping tent with easy setup,Sports,https://m.media-amazon.com/images/I/61Ycmcz3gWL._SL1000_.jpg
+52,Smart Light Bulb,Energy-efficient smart light bulb with adjustable brightness,Home Appliances,https://m.media-amazon.com/images/I/71Mtmjoj7OS._SL1500_.jpg
+53,Waterproof Watch,Stylish waterproof watch for outdoor and water activities,Accessories,https://m.media-amazon.com/images/I/81T7X11RFeL._SY679_.jpg
+54,Running Shorts,Lightweight and breathable running shorts for outdoor exercise,Exercise,https://m.media-amazon.com/images/I/51OFwopy1YL._SY741_.jpg
+55,Shoes,Comfortable shoes for daily wear and outdoor activities,Accessories,https://m.media-amazon.com/images/I/71jucJHKGrL._SL1500_.jpg
+56,Pedometer,Step-counting pedometer for fitness tracking,Electronics,https://m.media-amazon.com/images/I/513pmcYAe4L._SL1000_.jpg
+57,Electric Grill,Compact electric grill for cooking indoors,Home Appliances,https://m.media-amazon.com/images/I/81pWa8TO6IL._SL1500_.jpg
+58,Smart Speaker,Voice-controlled smart speaker with high-quality sound,Electronics,https://m.media-amazon.com/images/I/71KVLuFXPIL._SL1500_.jpg
+59,Multivitamin for Kids,Daily vitamins for kids for healthy lifestyle,Health,https://m.media-amazon.com/images/I/61UVT0ZIocL._SL1200_.jpg
+60,Sleep Mask,Eye mask for better sleep and comfort,Sleep Accessories,https://m.media-amazon.com/images/I/61GIC76RokL._SL1200_.jpg
+61,Badminton,Badminton Set for Outdoor Backyards,Sports,https://m.media-amazon.com/images/I/71QuZJ-YvYL._SL1500_.jpg
+62,Linemans Pliers,The lineman pliers are the ultimate multi-tool for all your electrical and wiring needs,Tools,https://m.media-amazon.com/images/I/61vo4RdhZSL._SL1500_.jpg
